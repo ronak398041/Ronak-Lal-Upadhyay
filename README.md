@@ -1,5 +1,5 @@
 # Ronak-Lal-Upadhyay
-<h2>📍 Personal Details</h2>
+<h2>📍 Contect</h2>
 
 <p>
 <strong>Address:</strong><br>
@@ -35,3 +35,42 @@ This is my personal Resume...
 I seek challenging opportunities where I can fully use my skills 
 for the success of the organization.
 </p>
+<h2>🎓 Education</h2>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Course / Degree</th>
+    <th>School / University</th>
+    <th>Grade / Score</th>
+    <th>Year</th>
+  </tr>
+
+  <tr>
+    <td>Highschool in Science</td>
+    <td>Shree Ram Inter College, Teliya Kalan, Deoria</td>
+    <td>65.8%</td>
+    <td>2022</td>
+  </tr>
+
+  <tr>
+    <td>Intermediate in Arts</td>
+    <td>Shree Ram Inter College, Teliya Kalan, Deoria</td>
+    <td>62.8%</td>
+    <td>2024</td>
+  </tr>
+
+  <tr>
+    <td>Diploma in Computer Application</td>
+    <td>Wisdom Info Tech, Barhaj, Deoria</td>
+    <td>Passed</td>
+    <td>2025</td>
+  </tr>
+
+  <tr>
+    <td>Bachelor of Art</td>
+    <td>B.R.D.B.D. P.G. College, Ashram Barhaj, Deoria</td>
+    <td>Appearing</td>
+    <td>2027</td>
+  </tr>
+
+</table>
