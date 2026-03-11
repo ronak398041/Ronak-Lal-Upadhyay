@@ -1,5 +1,5 @@
 # Ronak-Lal-Upadhyay
-<h2>📍 Contact</h2>
+<h2>📍 Personal Details</h2>
 
 <p>
 <strong>Address:</strong><br>
