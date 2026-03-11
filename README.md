@@ -74,3 +74,26 @@ for the success of the organization.
   </tr>
 
 </table>
+
+<h2>⭐ Areas Of Interests</h2>
+
+<ul>
+  <li>Learning</li>
+  <li>Teaching</li>
+  <li>Motivating Others</li>
+</ul>
+
+<h2>💪 Strengths</h2>
+
+<ul>
+  <li>Confident About Myself</li>
+  <li>Acumen to Learn New Things</li>
+</ul>
+
+<h2>🎯 Hobbies</h2>
+
+<ul>
+  <li>Listening to Music</li>
+  <li>Reading Hindi Stories</li>
+  <li>Watching Online Videos</li>
+</ul>
