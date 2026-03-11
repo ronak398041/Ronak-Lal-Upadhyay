@@ -1,4 +1,5 @@
 # Ronak-Lal-Upadhyay
+This is my personal Resume...
 <h2>📍 Contect</h2>
 
 <p>
@@ -13,7 +14,6 @@ Dist - Deoria, (U.P.), India
 <strong>Email:</strong> uraunaklal@gmail.com
 </p>
 
-This is my personal Resume...
 ## 👨‍💻 About Me
 - **Name:** Raunak Lal Upadhyay
 - **Gender:** Male
